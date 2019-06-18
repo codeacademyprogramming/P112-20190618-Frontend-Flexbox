@@ -8,3 +8,6 @@ Faydalı linklər:
 - https://www.w3schools.com/html/html_media.asp
 - https://www.w3schools.com/css/css_pseudo_classes.asp
 - https://www.w3schools.com/css/css_pseudo_elements.asp
+
+
+Uğurlar
